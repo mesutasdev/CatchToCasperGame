@@ -33,4 +33,4 @@ Bu proje, UIKit temelleri, oyun döngüsü mantığı, animasyonlar ve çarpış
 ## 🚀 Başlangıç
 1. Repoyu klonla:  
    ```bash
-   git clone https://github.com/mesutasdev/catch-to-casper.git
+   https://github.com/mesutasdev/CatchToCasperGame.git
